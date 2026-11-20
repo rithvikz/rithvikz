@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rithvik Kuttin 👋
 
-<!--
-**rithvikz/rithvikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st-year **B.Tech student in AI & Data Science** at Saveetha Engineering College, Chennai. I like building practical tools in Python and understanding how systems work under the hood—from digital logic to processor architecture.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+* **Languages:** Python, SQL, C/C++
+* **Interests:** AI/ML, Computer Vision, Systems & Architecture
+* **Tools:** Git, GitHub, MySQL, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+* Sharpening Python OOP and database integration skills
+* Exploring Computer Organization (MIPS/RISC) & Digital Electronics
+* Learning beginner Japanese 🇯🇵
+
+### 📫 Connect
+* **LinkedIn:** https://www.linkedin.com/in/rithvikkuttin/
