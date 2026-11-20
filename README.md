@@ -1,4 +1,4 @@
-# Hi, I'm Rithvik Kuttin 👋
+# Hi, I'm Rithvik 👋
 
 1st-year **B.Tech student in AI & Data Science** at Saveetha Engineering College, Chennai. I like building practical tools in Python and understanding how systems work under the hood—from digital logic to processor architecture.
 
